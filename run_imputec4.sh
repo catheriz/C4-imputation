@@ -1,3 +1,4 @@
+#!/bin/bash
 vcf="..."
 out="..."
 build=38 # build=37
